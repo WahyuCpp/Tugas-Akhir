@@ -230,4 +230,4 @@ tmp/
 
 # Generated PDFs:
 # Uncomment this ONLY if PDFs should not be version-controlled
-*.pdf
+# *.pdf
